@@ -20,3 +20,10 @@ button{
     height: 58px;
     border-radius: 20px;
 }
+
+.calculator{
+    background-color: black;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
